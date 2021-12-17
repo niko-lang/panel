@@ -34,7 +34,7 @@
         "sockette": "^2.0.6",
         "styled-components": "^5.2.1",
         "styled-components-breakpoint": "^3.0.0-preview.20",
-        "swr": "^0.2.3",
+        "swr": "^0.5.7",
         "tailwindcss": "^2.0.2",
         "uuid": "^3.3.2",
         "xterm": "^4.15.0",
