@@ -43,7 +43,7 @@
         "xterm-addon-search": "^0.7.0",
         "xterm-addon-search-bar": "^0.2.0",
         "xterm-addon-web-links": "^0.4.0",
-        "yup": "^0.29.1"
+        "yup": "^0.30.0"
     },
     "devDependencies": {
         "@babel/core": "^7.12.1",
